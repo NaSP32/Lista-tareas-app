@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+p {
+  margin-bottom: 0;
+  margin-left: 10px;
+  width: 100%;
+}
+
+.bi-bell-slash {
+  color: red;
+}
